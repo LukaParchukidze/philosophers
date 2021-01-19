@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/philosophers/static/css/main.6f9e3e4e.chunk.css",
+    "main.js": "/philosophers/static/js/main.152d78e7.chunk.js",
+    "main.js.map": "/philosophers/static/js/main.152d78e7.chunk.js.map",
+    "runtime-main.js": "/philosophers/static/js/runtime-main.173ab98b.js",
+    "runtime-main.js.map": "/philosophers/static/js/runtime-main.173ab98b.js.map",
+    "static/css/2.0a49d93f.chunk.css": "/philosophers/static/css/2.0a49d93f.chunk.css",
+    "static/js/2.da081c8c.chunk.js": "/philosophers/static/js/2.da081c8c.chunk.js",
+    "static/js/2.da081c8c.chunk.js.map": "/philosophers/static/js/2.da081c8c.chunk.js.map",
+    "static/js/3.f3708088.chunk.js": "/philosophers/static/js/3.f3708088.chunk.js",
+    "static/js/3.f3708088.chunk.js.map": "/philosophers/static/js/3.f3708088.chunk.js.map",
+    "index.html": "/philosophers/index.html",
+    "static/css/2.0a49d93f.chunk.css.map": "/philosophers/static/css/2.0a49d93f.chunk.css.map",
+    "static/css/main.6f9e3e4e.chunk.css.map": "/philosophers/static/css/main.6f9e3e4e.chunk.css.map",
+    "static/js/2.da081c8c.chunk.js.LICENSE.txt": "/philosophers/static/js/2.da081c8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.173ab98b.js",
+    "static/css/2.0a49d93f.chunk.css",
+    "static/js/2.da081c8c.chunk.js",
+    "static/css/main.6f9e3e4e.chunk.css",
+    "static/js/main.152d78e7.chunk.js"
+  ]
+}
