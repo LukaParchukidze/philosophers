@@ -43,7 +43,7 @@ const Chronology = () => {
     return () => {
       isMounted = false;
     };
-  });
+  }, []);
 
   if (error) {
     return <section> {error.message} </section>;

@@ -33,7 +33,7 @@ const Philosopher = () => {
     return () => {
       isMounted = false;
     };
-  });
+  }, [id]);
 
   if (error) {
     return <section> {error.message} </section>;
